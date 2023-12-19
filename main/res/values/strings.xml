@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ImitateBili</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="detial_aobing">
+        三太子敖丙\n
+        粉丝数：9万
+    </string>
+
+    <string name="detial_yupi">
+        程序员鱼皮\n
+        粉丝数：65万
+    </string>
+
+    <string name="detial_xielaoban">
+        蟹老板不破产\n
+        粉丝数：10万
+    </string>
+
+    <string name="detial_kuangshen">
+        狂神\n
+        粉丝数：60万
+    </string>
+
+</resources>
